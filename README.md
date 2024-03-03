@@ -1,5 +1,6 @@
 # Java-program
 Software Test Automation Q&amp;A Java Course @ SNHU
+
 How can I ensure that my code, program, or software is functional and secure?
 You may use strict testing techniques like unit testing, integration testing, and security testing to make sure your code, program, or software is both secure and functional. Furthermore, you may improve the usefulness and security of your program by employing secure coding approaches, adhering to best practices in coding standards, and routinely upgrading and patching it.
 
